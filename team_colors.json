@@ -1,63 +1,242 @@
 {
-  "FURIA": "#000000",
-  "Falcons": "#121212",
-  "Vitality": "#fae100",
-  "Aurora": "#00ffff",
-  "MOUZ": "#ff0000",
-  "The MongolZ": "#121212",
-  "Spirit": "#2d3844",
-  "Liquid": "#001538",
-  "G2": "#a8a8a8",
-  "Natus Vincere": "#ffee00",
-  "Legacy": "#fcc600",
-  "Astralis": "#e60000",
-  "HEROIC": "#970505",
-  "3DMAX": "#e40f13",
-  "paiN": "#fa0404",
-  "B8": "#202020",
-  "FaZe": "#e4002b",
-  "SAW": "#112540",
-  "PARIVISION": "#00c7b1",
-  "Gentle Mates": "#acacac",
-  "GamerLegion": "#3f91c5",
-  "FUT": "#c61832",
-  "BetBoom": "#fd4655",
-  "fnatic": "#e55000",
-  "M80": "#cbee00",
-  "FlyQuest": "#ffd235",
-  "Passion UA": "#fefe01",
-  "HOTU": "#eaeaea",
-  "Ninjas in Pyjamas": "#d8ff00",
-  "Lynn Vision": "#b27f1d",
-  "NRG": "#f73d0a",
-  "Imperial": "#0bd765",
-  "EYEBALLERS": "#e11f26",
-  "Inner Circle": "#ff3555",
-  "OG": "#c2c7d4",
-  "9INE": "#c4c4c4",
-  "MIBR": "#079547",
-  "TYLOO": "#dd3932",
-  "ENCE": "#c54e03",
-  "Fluxo": "#a1a1a1",
-  "Virtus.pro": "#fb4f00",
-  "Monte": "#36b3cb",
-  "SINNERS": "#c5c3c2",
-  "ECSTATIC": "#a18b59",
-  "BIG": "#969696",
-  "Sharks": "#4a6e8b",
-  "Friendly Campers": "FC",
-  "Alliance": "#279045",
-  "Sashi": "#7b2d2e",
-  "9z": "#6f2899",
-  "100 Thieves": "#f23435",
-  "Luminosity": "#3cbcdc",
-  "magic": "#ffff60",
-  "Nemesis": "#959595",
-  "K27": "#ce112a",
-  "Wildcard": "#c80014",
-  "INFINITE": "#f40808",
-  "THUNDER dOWNUNDER": "#49008f",
-  "5star": "#66666a",
-  "The Huns": "#ac1816",
-  "Ghinggis Warriors": "#f42535"
-}
+  "FURIA": {
+    "color": "#000000",
+    "darkText": false
+    },
+  "Falcons": {
+    "color": "#121212",
+    "darkText": false
+    },
+  "Vitality": {
+    "color": "#fae100",
+    "darkText": true
+    },
+  "Aurora": {
+    "color": "#00ffff",
+    "darkText": true
+    },
+  "MOUZ": {
+    "color": "#ff0000",
+    "darkText": false
+    },
+  "The MongolZ": {
+    "color": "#121212",
+    "darkText": false
+    },
+  "Spirit": {
+    "color": "#2d3844",
+    "darkText": false
+    },
+  "Liquid": {
+    "color": "#001538",
+    "darkText": false
+    },
+  "G2": {
+    "color": "#a8a8a8",
+    "darkText": false
+    },
+  "Natus Vincere": {
+    "color": "#ffee00",
+    "darkText": true
+    },
+  "Legacy": {
+    "color": "#fcc600",
+    "darkText": true
+    },
+  "Astralis": {
+    "color": "#e60000",
+    "darkText": false
+    },
+  "HEROIC": {
+    "color": "#970505",
+    "darkText": false
+    },
+  "3DMAX": {
+    "color": "#e40f13",
+    "darkText": false
+    },
+  "paiN": {
+    "color": "#fa0404",
+    "darkText": false
+    },
+  "B8": {
+    "color": "#a7a7a7",
+    "darkText": false
+    },
+  "FaZe": {
+    "color": "#e4002b",
+    "darkText": false
+    },
+  "SAW": {
+    "color": "#112540",
+    "darkText": false
+    },
+  "PARIVISION": {
+    "color": "#00c7b1",
+    "darkText": false
+    },
+  "Gentle Mates": {
+    "color": "#acacac",
+    "darkText": false
+    },
+  "GamerLegion": {
+    "color": "#3f91c5",
+    "darkText": false
+    },
+  "FUT": {
+    "color": "#c61832",
+    "darkText": false
+    },
+  "BetBoom": {
+    "color": "#fd4655",
+    "darkText": false
+    },
+  "fnatic": {
+    "color": "#e55000",
+    "darkText": false
+    },
+  "M80": {
+    "color": "#cbee00",
+    "darkText": true
+    },
+  "FlyQuest": {
+    "color": "#ffd235",
+    "darkText": true
+    },
+  "Passion UA": {
+    "color": "#fefe01",
+    "darkText": false
+    },
+  "HOTU": {
+    "color": "#eaeaea",
+    "darkText": true
+    },
+  "Ninjas in Pyjamas": {
+    "color": "#d8ff00",
+    "darkText": true
+    },
+  "Lynn Vision": {
+    "color": "#b27f1d",
+    "darkText": false
+    },
+  "NRG": {
+    "color": "#f73d0a",
+    "darkText": false
+    },
+  "Imperial": {
+    "color": "#0bd765",
+    "darkText": false
+    },
+  "EYEBALLERS": {
+    "color": "#e11f26",
+    "darkText": false
+    },
+  "Inner Circle": {
+    "color": "#ff3555",
+    "darkText": false
+    },
+  "OG": {
+    "color": "#c2c7d4",
+    "darkText": true
+    },
+  "9INE": {
+    "color": "#c4c4c4",
+    "darkText": true
+    },
+  "MIBR": {
+    "color": "#079547",
+    "darkText": false
+    },
+  "TYLOO": {
+    "color": "#dd3932",
+    "darkText": false
+    },
+  "ENCE": {
+    "color": "#c54e03",
+    "darkText": false
+    },
+  "Fluxo": {
+    "color": "#a1a1a1",
+    "darkText": false
+    },
+  "Virtus.pro": {
+    "color": "#fb4f00",
+    "darkText": false
+    },
+  "Monte": {
+    "color": "#36b3cb",
+    "darkText": false
+    },
+  "SINNERS": {
+    "color": "#c5c3c2",
+    "darkText": false
+    },
+  "ECSTATIC": {
+    "color": "#a18b59",
+    "darkText": false
+    },
+  "BIG": {
+    "color": "#969696",
+    "darkText": false
+    },
+  "Sharks": {
+    "color": "#4a6e8b",
+    "darkText": false
+    },
+  "Alliance": {
+    "color": "#279045",
+    "darkText": false
+    },
+  "Sashi": {
+    "color": "#7b2d2e",
+    "darkText": false
+    },
+  "9z": {
+    "color": "#6f2899",
+    "darkText": false
+    },
+  "100 Thieves": {
+    "color": "#f23435",
+    "darkText": false
+    },
+  "Luminosity": {
+    "color": "#3cbcdc",
+    "darkText": false
+    },
+  "magic": {
+    "color": "#ffff60",
+    "darkText": true
+    },
+  "Nemesis": {
+    "color": "#959595",
+    "darkText": false
+    },
+  "K27": {
+    "color": "#ce112a",
+    "darkText": false
+    },
+  "Wildcard": {
+    "color": "#c80014",
+    "darkText": false
+    },
+  "INFINITE": {
+    "color": "#f40808",
+    "darkText": false
+    },
+  "THUNDER dOWNUNDER": {
+    "color": "#49008f",
+    "darkText": false
+    },
+  "5star": {
+    "color": "#66666a",
+    "darkText": false
+    },
+  "The Huns": {
+    "color": "#ac1816",
+    "darkText": false
+    },
+  "Ghinggis Warriors": {
+    "color": "#f42535",
+    "darkText": false
+    }
+  }
