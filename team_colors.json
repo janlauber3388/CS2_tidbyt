@@ -238,5 +238,9 @@
   "Ghinggis Warriors": {
     "color": "#f42535",
     "darkText": false
+    },
+  "Bestia": {
+    "color": "#dadbdc",
+    "darkText": true
     }
   }

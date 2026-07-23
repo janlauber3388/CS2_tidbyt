@@ -1,63 +1,246 @@
 {
-  "FURIA": "FUR",
-  "Falcons": "FLC",
-  "Vitality": "VIT",
-  "Aurora": "AUR",
-  "MOUZ": "MOUZ",
-  "The MongolZ": "MGLS",
-  "Spirit": "TS",
-  "Liquid": "TL",
-  "G2": "G2",
-  "Natus Vincere": "NAVI",
-  "Legacy": "LGY",
-  "Astralis": "AST",
-  "HEROIC": "HER",
-  "3DMAX": "3DM",
-  "paiN": "PAIN",
-  "B8": "B8",
-  "FaZe": "FAZE",
-  "SAW": "SAW",
-  "PARIVISION": "PARI",
-  "Gentle Mates": "GM",
-  "GamerLegion": "GL",
-  "FUT": "FUT",
-  "BetBoom": "BB",
-  "fnatic": "FNC",
-  "M80": "M80",
-  "FlyQuest": "FQ",
-  "Passion UA": "P UA",
-  "HOTU": "HOTU",
-  "Ninjas in Pyjamas": "NIP",
-  "Lynn Vision": "LV",
-  "NRG": "NRG",
-  "Imperial": "IMP",
-  "EYEBALLERS": "EYE",
-  "Inner Circle": "IC",
-  "OG": "OG",
-  "9INE": "9INE",
-  "MIBR": "MIBR",
-  "TYLOO": "TY",
-  "ENCE": "ENCE",
-  "Fluxo": "FLUX",
-  "Virtus.pro": "VP",
-  "Monte": "MNT",
-  "SINNERS": "SIN",
-  "ECSTATIC": "ECST",
-  "BIG": "BIG",
-  "Sharks": "SHA",
-  "Friendly Campers": "FC",
-  "Alliance": "ALC",
-  "Sashi": "SAI",
-  "9z": "9Z",
-  "100 Thieves": "100T",
-  "Luminosity": "LG",
-  "magic": "MAG",
-  "Nemesis": "NEM",
-  "K27": "K27",
-  "Wildcard": "WC",
-  "INFINITE": "INF",
-  "THUNDER dOWNUNDER": "TDU",
-  "5star": "5S",
-  "The Huns": "HUN",
-  "Chinggis Warriors": "GHW"
+  "FURIA": {
+    "tag": "FUR",
+    "pandascore": ["FURIA"]
+  },
+  "Falcons": {
+    "tag": "FLC",
+    "pandascore": ["FLC", "Falcons", "falcons"]
+  },
+  "Vitality": {
+    "tag": "VIT",
+    "pandascore": ["VIT", "Vitality"]
+  },
+  "Aurora": {
+    "tag": "AUR",
+    "pandascore": ["Aurora Gaming", "aurora-gaming", "AUR"]
+  },
+  "MOUZ": {
+    "tag": "MOUZ",
+    "pandascore": ["MOUZ"]
+  },
+  "The MongolZ": {
+    "tag": "MGLZ",
+    "pandascore": ["TheMongolz", "MGLZ"]
+  },
+  "Spirit": {
+    "tag": "TS",
+    "pandascore": ["Spirit", "TS"]
+  },
+  "Liquid": {
+    "tag": "TL",
+    "pandascore": ["Liquid", "TL"]
+  },
+  "G2": {
+    "tag": "G2",
+    "pandascore": ["G2"]
+  },
+  "Natus Vincere": {
+    "tag": "NAVI",
+    "pandascore": ["Natus Vincere", "NAVI"]
+  },
+  "Legacy": {
+    "tag": "LGY",
+    "pandascore": ["Legacy Esports", "legacy-esports-cs-go"]
+  },
+  "Astralis": {
+    "tag": "AST",
+    "pandascore": ["Astralis", "AST"]
+  },
+  "HEROIC": {
+    "tag": "HRC",
+    "pandascore": ["Heroic", "HERO"]
+  },
+  "3DMAX": {
+    "tag": "3DM",
+    "pandascore": ["3DMAX"]
+  },
+  "paiN": {
+    "tag": "PAIN",
+    "pandascore": ["paiN", "pain-gaming-cs-go"]
+  },
+  "B8": {
+    "tag": "B8",
+    "pandascore": ["B8", "b8-cs-go"]
+  },
+  "FaZe": {
+    "tag": "FAZE",
+    "pandascore": ["FaZe", "FAZE"]
+  },
+  "SAW": {
+    "tag": "SAW",
+    "pandascore": ["SAW", "saw"]
+  },
+  "PARIVISION": {
+    "tag": "PARI",
+    "pandascore": ["PARIVISION", "parivision", "PRV"]
+  },
+  "Gentle Mates": {
+    "tag": "GM",
+    "pandascore": ["Gentle Mates", "gentle-mates-cs-go", "M8"]
+  },
+  "GamerLegion": {
+    "tag": "GL",
+    "pandascore": ["GamerLegion", "GL"]
+  },
+  "FUT": {
+    "tag": "FUT",
+    "pandascore": ["FUT Esports", "fut-esports-cs-go", "FUT"]
+  },
+  "BetBoom": {
+    "tag": "BB",
+    "pandascore": ["BetBoom Team", "betboom-team-cs-go", "BB"]
+  },
+  "fnatic": {
+    "tag": "FNC",
+    "pandascore": ["fnatic", "FNC"]
+  },
+  "M80": {
+    "tag": "M80",
+    "pandascore": ["M80", "m80-cs-go"]
+  },
+  "FlyQuest": {
+    "tag": "FLY",
+    "pandascore": ["FlyQuest", "flyquest-cs-go", "FLY"]
+  },
+  "Passion UA": {
+    "tag": "P UA",
+    "pandascore": ["Passion UA", "passion-ua", "PSSN.UA"]
+  },
+  "HOTU": {
+    "tag": "HOTU",
+    "pandascore": ["HOTU", "hotu"]
+  },
+  "Ninjas in Pyjamas": {
+    "tag": "NIP",
+    "pandascore": ["NIP"]
+  },
+  "Lynn Vision": {
+    "tag": "LV",
+    "pandascore": ["Lynn Vision", "lynn-vision", "LVG"]
+  },
+  "NRG": {
+    "tag": "NRG",
+    "pandascore": ["NRG"]
+  },
+  "Imperial": {
+    "tag": "IMP",
+    "pandascore": ["Imperial", "imperial-cs-go", "IMP"]
+  },
+  "EYEBALLERS": {
+    "tag": "EYE",
+    "pandascore": ["EYEBALLERS", "EYE"]
+  },
+  "Inner Circle": {
+    "tag": "IC",
+    "pandascore": ["Inner Circle Esports", "inner-circle-esports", "ICE"]
+  },
+  "OG": {
+    "tag": "OG",
+    "pandascore": ["OG", "og-cs-go"]
+  },
+  "9INE": {
+    "tag": "9INE",
+    "pandascore": ["9INE", "9ine"]
+  },
+  "MIBR": {
+    "tag": "MIBR",
+    "pandascore": ["MIBR"]
+  },
+  "TYLOO": {
+    "tag": "TY",
+    "pandascore": ["TYLOO"]
+  },
+  "ENCE": {
+    "tag": "ENCE",
+    "pandascore": ["ENCE"]
+  },
+  "Fluxo": {
+    "tag": "FLUX",
+    "pandascore": ["Fluxo", "fluxo", "FX"]
+  },
+  "Virtus.pro": {
+    "tag": "VP",
+    "pandascore": ["Virtus.pro", "VP"]
+  },
+  "Monte": {
+    "tag": "MNT",
+    "pandascore": ["Monte", "monte", "MNTE"]
+  },
+  "SINNERS": {
+    "tag": "SIN",
+    "pandascore": ["Sinners", "sinners", "SIN"]
+  },
+  "ECSTATIC": {
+    "tag": "ECST",
+    "pandascore": ["ECSTATIC", "ecstatic", "ECS"]
+  },
+  "BIG": {
+    "tag": "BIG",
+    "pandascore": ["BIG", "big"]
+  },
+  "Sharks": {
+    "tag": "SHA",
+    "pandascore": ["Sharks", "SHK"]
+  },
+  "Alliance": {
+    "tag": "ALC",
+    "pandascore": ["Alliance", "alliance-cs-go", "ALL"]
+  },
+  "Sashi": {
+    "tag": "SAI",
+    "pandascore": ["Sashi Esport", "sashi-esport", "SASHI"]
+  },
+  "9z": {
+    "tag": "9Z",
+    "pandascore": ["9z", "9Z"]
+  },
+  "100 Thieves": {
+    "tag": "100T",
+    "pandascore": ["100 Thieves", "100-thieves-cs-go", "100T"]
+  },
+  "Luminosity": {
+    "tag": "LG",
+    "pandascore": ["Luminosity", "LG"]
+  },
+  "magic": {
+    "tag": "MAG",
+    "pandascore": ["magic", "magic-cs-go", "MGC"]
+  },
+  "Nemesis": {
+    "tag": "NEM",
+    "pandascore": ["Team Nemesis", "team-nemesis-cs-go", "NEM"]
+  },
+  "K27": {
+    "tag": "K27",
+    "pandascore": ["K27", "k27"]
+  },
+  "Wildcard": {
+    "tag": "WC",
+    "pandascore": ["Wildcard", "wildcard", "WC"]
+  },
+  "INFINITE": {
+    "tag": "INF",
+    "pandascore": ["Infinite", "infinite"]
+  },
+  "THUNDER dOWNUNDER": {
+    "tag": "TDU",
+    "pandascore": ["THUNDER dOWNUNDER", "thunder-downunder", "TdU"]
+  },
+  "5star": {
+    "tag": "5S",
+    "pandascore": ["5star", "5S"]
+  },
+  "The Huns": {
+    "tag": "HUN",
+    "pandascore": ["The Huns Esports", "the-huns-esports", "THE"]
+  },
+  "Chinggis Warriors": {
+    "tag": "CHW",
+    "pandascore": ["Chinggis Warriors", "chinggis-warriors", "CW"]
+  },
+  "Bestia": {
+    "tag": "BST",
+    "pandascore": ["BESTIA", "bestia", "BST"]
+  }
 }
