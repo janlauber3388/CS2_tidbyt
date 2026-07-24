@@ -77,7 +77,7 @@
     },
   "Gentle Mates": {
     "color": "#acacac",
-    "darkText": false
+    "darkText": true
     },
   "GamerLegion": {
     "color": "#3f91c5",
@@ -209,7 +209,7 @@
     },
   "Nemesis": {
     "color": "#959595",
-    "darkText": false
+    "darkText": true
     },
   "K27": {
     "color": "#ce112a",
