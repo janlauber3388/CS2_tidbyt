@@ -241,7 +241,7 @@
     },
   "DEPO": {
     "color": "#ffed00",
-    "darkText": false
+    "darkText": true
     },
   "DENDELE": {
     "color": "#1a65b9",
