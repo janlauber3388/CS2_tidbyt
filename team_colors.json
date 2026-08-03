@@ -239,6 +239,14 @@
     "color": "#f42535",
     "darkText": false
     },
+  "DEPO": {
+    "color": "#ffed00",
+    "darkText": false
+    },
+  "DENDELE": {
+    "color": "#1a65b9",
+    "darkText": false
+    },
   "BESTIA": {
     "color": "#dadbdc",
     "darkText": true

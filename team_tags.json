@@ -239,6 +239,14 @@
     "tag": "CHW",
     "pandascore": ["Chinggis Warriors", "chinggis-warriors", "CW"]
   },
+  "DEPO": {
+    "tag": "DEPO",
+    "pandascore": ["DEPO", "depo-cs"]
+  },
+  "DENDELE": {
+    "tag": "DNDL",
+    "pandascore": ["DENDELE", "dendele-cs"]
+  },
   "BESTIA": {
     "tag": "BST",
     "pandascore": ["BESTIA", "bestia", "BST"]
