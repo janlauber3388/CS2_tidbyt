@@ -73,7 +73,7 @@
   },
   "PARIVISION": {
     "tag": "PARI",
-    "pandascore": ["PARIVISION", "parivision", "PRV"]
+    "pandascore": ["PARIVISION", "parivision", "PRV", "PV", "pvision", "PVISION"]
   },
   "Gentle Mates": {
     "tag": "GM",
@@ -89,7 +89,7 @@
   },
   "BetBoom": {
     "tag": "BB",
-    "pandascore": ["BetBoom Team", "betboom-team-cs-go", "BB"]
+    "pandascore": ["BetBoom Team", "betboom-team-cs-go", "BB", "BB Team", "bb-team", "BetBoom"]
   },
   "fnatic": {
     "tag": "FNC",
@@ -209,7 +209,7 @@
   },
   "Nemesis": {
     "tag": "NEM",
-    "pandascore": ["Team Nemesis", "team-nemesis-cs-go", "NEM"]
+    "pandascore": ["Team Nemesis", "team-nemesis-cs-go", "NEM", "Nemesis"]
   },
   "K27": {
     "tag": "K27",
@@ -250,5 +250,17 @@
   "BESTIA": {
     "tag": "BST",
     "pandascore": ["BESTIA", "bestia", "BST"]
+  },
+  "BC.Game": {
+    "tag": "BC.G",
+    "pandascore": ["BC.Game", "bc.game", "BCG", "GOSH", "gosh", "BC.Game Esports", "bc-game-esports", "BC.G"]
+  },
+  "1WIN": {
+    "tag": "1WIN",
+    "pandascore": ["1WIN", "1win", "ONE", "THE ONE", "the-one"]
+  },
+  "Eternal Fire": {
+    "tag": "EF",
+    "pandascore": ["Eternal Fire", "eternal-fire", "EF"]
   }
 }

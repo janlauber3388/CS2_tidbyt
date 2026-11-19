@@ -235,7 +235,7 @@
     "color": "#ac1816",
     "darkText": false
     },
-  "Ghinggis Warriors": {
+  "Chinggis Warriors": {
     "color": "#f42535",
     "darkText": false
     },
@@ -250,5 +250,17 @@
   "BESTIA": {
     "color": "#dadbdc",
     "darkText": true
+    },
+  "BC.Game": {
+    "color": "#33ed87",
+    "darkText": true
+    },
+  "1WIN": {
+    "color": "#00a3ff",
+    "darkText": false
+    },
+  "Eternal Fire": {
+    "color": "#9f906e",
+    "darkText": false
     }
   }
