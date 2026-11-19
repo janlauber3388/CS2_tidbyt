@@ -87,9 +87,9 @@
     "tag": "FUT",
     "pandascore": ["FUT Esports", "fut-esports-cs-go", "FUT"]
   },
-  "BetBoom": {
+  "BETBOOM": {
     "tag": "BB",
-    "pandascore": ["BetBoom Team", "betboom-team-cs-go", "BB", "BB Team", "bb-team", "BetBoom"]
+    "pandascore": ["BetBoom Team", "betboom-team-cs-go", "BB", "BB Team", "bb-team", "BetBoom", "BETBOOM"]
   },
   "fnatic": {
     "tag": "FNC",
@@ -255,12 +255,16 @@
     "tag": "BC.G",
     "pandascore": ["BC.Game", "bc.game", "BCG", "GOSH", "gosh", "BC.Game Esports", "bc-game-esports", "BC.G"]
   },
-  "1WIN": {
+  "1win": {
     "tag": "1WIN",
-    "pandascore": ["1WIN", "1win", "ONE", "THE ONE", "the-one"]
+    "pandascore": ["1WIN", "1win", "ONE", "THE ONE", "the-one", "1win"]
   },
   "Eternal Fire": {
     "tag": "EF",
     "pandascore": ["Eternal Fire", "eternal-fire", "EF"]
+  },
+  "Nemiga": {
+    "tag": "NMG",
+    "pandascore": ["Nemiga", "nemiga", "NEMI", "NEMIGA"]
   }
 }

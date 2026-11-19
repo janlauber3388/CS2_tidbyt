@@ -61,7 +61,7 @@
     },
   "B8": {
     "color": "#a7a7a7",
-    "darkText": false
+    "darkText": true
     },
   "FaZe": {
     "color": "#e4002b",
@@ -87,7 +87,7 @@
     "color": "#c61832",
     "darkText": false
     },
-  "BetBoom": {
+  "BETBOOM": {
     "color": "#fd4655",
     "darkText": false
     },
@@ -255,12 +255,16 @@
     "color": "#33ed87",
     "darkText": true
     },
-  "1WIN": {
+  "1win": {
     "color": "#00a3ff",
     "darkText": false
     },
   "Eternal Fire": {
     "color": "#9f906e",
+    "darkText": false
+    },
+  "Nemiga": {
+    "color": "#e00000",
     "darkText": false
     }
   }
